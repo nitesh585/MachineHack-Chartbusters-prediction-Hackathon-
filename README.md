@@ -1,5 +1,5 @@
 # MachineHack-Chartbusters-prediction-Hackathon-
-This repository contains <strong>winning solution</strong> of MachineHack's Chartbusters Prediction : Foretell The Popularity Of Songs Hackathon.
+This repository contains my <strong>winning solution</strong> of MachineHack's Chartbusters Prediction : Foretell The Popularity Of Songs Hackathon.
 
 ### File Description :
 Data_Train.csv – the training set, 78458 rows with 11 columns.<br>
